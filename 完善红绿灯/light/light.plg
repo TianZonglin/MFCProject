@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: light - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP24CF.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/light.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\1.学习\VC++编程\task\MFCtest\light\lightDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP24CF.tmp" 
+<h3>Output Window</h3>
+Compiling...
+lightDlg.cpp
+E:\1.学习\VC++编程\task\MFCtest\light\lightDlg.cpp(206) : warning C4101: 'oldbrush2' : unreferenced local variable
+E:\1.学习\VC++编程\task\MFCtest\light\lightDlg.cpp(205) : warning C4101: 'oldpen2' : unreferenced local variable
+
+
+
+<h3>Results</h3>
+lightDlg.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
